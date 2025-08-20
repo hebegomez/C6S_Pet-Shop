@@ -1,4 +1,14 @@
-.logo {
+.menu {
   list-style-type: none;
   display: inline-block;
+}
+
+.nav_bar {
+  background-color: #f0a83e;
+  color: #ffffff;
+}
+
+.enlace {
+  text-decoration: none;
+  color: #ffffff;
 }
